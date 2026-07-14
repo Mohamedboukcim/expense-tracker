@@ -102,9 +102,6 @@ Expense-Tracker/
 ```
 
 
-**Anica Djukic**
-GitHub: [@AnicaDjukic](https://github.com/AnicaDjukic)
-
 ## License
 
 This project currently has no license specified. Add a `LICENSE` file if you'd like to make usage terms explicit (e.g. MIT, Apache 2.0).
